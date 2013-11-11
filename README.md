@@ -53,6 +53,6 @@ Meteremos todos los ficheros en la carpeta /var/www/ dentro de la jaula y ya pod
 
     127.0.0.1/periodicoII/index/index.html
     
-
+![](https://github.com/SergioMGamarra/Practica2IV/blob/master/PracticaFuncionando.png)
     
 
